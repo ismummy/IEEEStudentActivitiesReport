@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Student Activity Reporting Tools</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <color name="bg_color">#D2691E</color>
+    <string name="form_page_title">Form Page</string>
+    <string-array name="time">
+        <item >1</item>
+        <item>2</item>
+        <item>3</item>
+        </string-array>
+    <color name="field_color">#00008b</color>
+
+</resources>
